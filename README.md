@@ -27,6 +27,6 @@ No terminal digite o comando para criar o banco de dados:
 ❗ Atenção
  O projeto já possui uma migration BD. Caso não tenha, utilize os seguintes comandos:
 
-1° add-migration teste
+ 1° add-migration teste
 --
 2° update-database
